@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spicylemonade
-- 👀 I’m interested in programing, aviation, engineering
-- 🌱 I’m currently learning programing(c#,c++,nodejs, react-native)
+- 👀 I’m interested in systems programming
+- 🌱 I’m currently learning programing(c++,nodejs,rust)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

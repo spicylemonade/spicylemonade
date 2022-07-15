@@ -10,8 +10,8 @@
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gebytienyi@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/471334973379706900)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gebytienyi@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/471334973379706900)
 
 ##### Languages I use
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust)

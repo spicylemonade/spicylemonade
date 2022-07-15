@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/84095175/179290036-3d661435-cb5e-4048-afd8-8bffc520030d.png)
 
-##### Hello, I'm Geby:
+##### Hello, I'm Geby
 
 ## :test_tube:  About me
 - :school: Currently a `Junior` at Duval highschool md

@@ -12,6 +12,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gebytienyi@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/471334973379706900)
+[![Twitter](https://img.shields.io/badge/-twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/spicey_lemonade)
 
 ##### Languages I use
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust)

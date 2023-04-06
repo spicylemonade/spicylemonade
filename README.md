@@ -6,7 +6,7 @@
 - :school: Currently a `Junior` at Duval highschool md
 - :chess_pawn: programming captain of my frc robotics team
 - :dart: I mostly do low-level/system development or backend
-- :candle: other intrests include mathmatics , robotics, and aliens :alien:
+- :candle: other intrests include mathematics , robotics, and aliens :alien:
 
 <br>
 
